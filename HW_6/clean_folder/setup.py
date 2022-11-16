@@ -5,4 +5,4 @@ setup(name='clean_folder',
       description='A script for sorting files in a folder',
       author='Dmytro Potapchuk',
       packages=find_packages(),
-      entry_points={'console_scripts': [clean-folder=clean_folder.main:main']}
+      entry_points={'console_scripts': [clean-folder=clean_folder.main:path_function']}
